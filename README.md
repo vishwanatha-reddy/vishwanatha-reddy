@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, I'm 👨‍💻 Vishwanath 👋
 
-<!--
-**vishwanatha-reddy/vishwanatha-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN stack developer 
+🛠 Tech Stack
+💻 JavaScript | ES6 
+HTML | CSS | BootStrap | ReactJS | Node.js | Express.js 
+MongoDB 
+Git 
+📦 💎
+Contact
+📧 vishwanath760970@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“First, solve the problem. Then, write the code.” – John Johnson
